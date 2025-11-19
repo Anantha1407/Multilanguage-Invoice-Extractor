@@ -1,0 +1,1 @@
+This project runs a streamlit app that helps to extract details of an Invoice in various languages and answer questions related to that
